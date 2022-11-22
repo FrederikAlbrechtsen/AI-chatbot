@@ -1,10 +1,11 @@
 # Artificial intelligence chatbot
 
-A sequential model that use intents and messages in the Danish language to chat back.
+A sequential model that use intents and messages in the Danish language to chat.
 
 <!-- ROADMAP -->
 ## Roadmap
-TODO
+- [ ] Generate more and better training data
+- [ ] Multi-language support
 
 <!-- CONTRIBUTING -->
 ## Contributing
