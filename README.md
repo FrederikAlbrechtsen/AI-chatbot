@@ -1,6 +1,6 @@
-# Artificial intelligence chatbot
+# Intent-based chatbot chatbot
 
-An intent-based chatbot which uses Natural Language Processing and Deep-Learning to examine what the user asks, identify the meaning and then respond with a relevant message to have a natural conversation.
+An intent-based chatbot that uses Natural Language Processing and Deep Learning to examine what the user asks, identify the meaning, and then respond with a relevant message to have a natural conversation.
 
 <!-- CONTRIBUTING -->
 ## Contributing
