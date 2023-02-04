@@ -1,11 +1,6 @@
 # Artificial intelligence chatbot
 
-A sequential model that use intents and messages in the Danish language to chat.
-
-<!-- ROADMAP -->
-## Roadmap
-- [ ] Generate more and better training data
-- [ ] Multi-language support
+An intent-based chatbot which uses Natural Language Processing and Deep-Learning to examine what the user asks, identify the meaning and then respond with a relevant message to have a natural conversation.
 
 <!-- CONTRIBUTING -->
 ## Contributing
